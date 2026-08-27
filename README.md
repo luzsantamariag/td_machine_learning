@@ -27,3 +27,4 @@ Aquí encontrarás:
 
 # 🗂️ Tabla de Contenido
 1. Instalar el ambiente de trabajo Python + Antigravity: Demo: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/F9JlirFUnTo)
+2. Presentación de la primera clase: [![](https://img.shields.io/badge/PDF-207KB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](workshops/pag57/IA_Guía_DFS_BFS.pdf)
