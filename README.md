@@ -28,3 +28,5 @@ Aquí encontrarás:
 # 🗂️ Tabla de Contenido
 1. Instalar el ambiente de trabajo Python + Antigravity: Demo: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/F9JlirFUnTo)
 2. Presentación de la primera clase: [![](https://img.shields.io/badge/PDF-3.9MB-FF61F6?logo=pdf&logoColor=white&style=for-the-badge)](slides/ml_architecture.pdf)
+3. Iris dataset: [![CSV](https://img.shields.io/badge/data-CSV-blue?style=flat-square)](datasets//iris.csv)
+
