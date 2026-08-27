@@ -6,6 +6,26 @@ Entornos de Transformación Digital - Machine Learning
 </p>
 
 <p align="center">
-  <b>Repositorio oficial del libro</b><br>
+  <b>Repositorio del espacio académico</b><br>
   Talleres • Ejercicios • Recursos • Código fuente
 </p>
+
+## ✨ Descripción
+
+Este repositorio contiene el material complementario del espacio académico **Entornos de Transformación Digital - Machine Learning**
+
+Aquí encontrarás:
+
+- 📚 Talleres prácticos
+- 💻 Ejercicios de programación
+- 📓 Notebooks interactivos
+- 📂 Datasets
+- ✅ Soluciones
+- 🔗 Recursos adicionales
+
+---
+
+# 🗂️ Tabla de Contenido
+```text
+1. Instalar el ambiente de trabajo Python + Antigravity: Demo: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)]([https://youtu.be/Gk6ERHEPrsI](https://youtu.be/F9JlirFUnTo))
+```
