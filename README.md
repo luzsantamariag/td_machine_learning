@@ -26,6 +26,4 @@ Aquí encontrarás:
 ---
 
 # 🗂️ Tabla de Contenido
-```text
 1. Instalar el ambiente de trabajo Python + Antigravity: Demo: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/F9JlirFUnTo)
-```
